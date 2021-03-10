@@ -5,6 +5,7 @@ You can find the following examples:
 1. How to mock DB for tests. There is configured MySQL DB for main project and in memory H2 DB for tests.
 1. How to send POST request to you controller and validate the response
 1. How to send GET request, receive the response object and validate the response
+1. How to test custom repository method. See `UserRepositoryTest` class
 
 ### How to launch?
 1. Replace your MySQL connection properties in the `src/main/resources/application.properties`
